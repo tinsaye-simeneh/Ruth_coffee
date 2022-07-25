@@ -1,4 +1,4 @@
-# Ruth_coffee_Website - https://ruthcoffee.elsamtechnologies.com
+# Ruth_coffee_Website - [https://ruth-coffee.vercel.app](https://ruth-coffee.vercel.app)
 
 - A landing page for a coffee shop called ruth coffee
 
